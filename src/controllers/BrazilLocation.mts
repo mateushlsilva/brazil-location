@@ -1,5 +1,5 @@
-import type { UF } from '../models/index.js';
-import { cidades } from '../models/index.js';
+import type { UF } from '../models/index.mjs'  with { "resolution-mode": "import" };
+import { cidades } from '../models/index.mjs' ;
 
 class BrazilLocation {
     public getUF(): UF[]{
