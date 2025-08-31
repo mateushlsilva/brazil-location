@@ -34582,6 +34582,209 @@ export const cepCidades = [
         "cidade":"Xambioá",
         "inicio":77880000,
         "final":77884999
+    },
+    { 
+        "UF": "AC", 
+        "cidade": "AC", 
+        "inicio": 69900000, 
+        "final": 69999999 
+    },
+    { 
+        "UF": "AL", 
+        "cidade": "AL", 
+        "inicio": 57000000, 
+        "final": 57999999 
+    },
+    { 
+        "UF": "AP", 
+        "cidade": "AP", 
+        "inicio": 68900000, 
+        "final": 68999999 
+    },
+    { 
+        "UF": "AM", 
+        "cidade": "AM", 
+        "inicio": 69000000, 
+        "final": 69299999 
+    },
+    { 
+        "UF": "AM", 
+        "cidade": "AM", 
+        "inicio": 69400000, 
+        "final": 69899999 
+
+    },
+    { 
+        "UF": "BA", 
+        "cidade": "BA", 
+        "inicio": 40000000, 
+        "final": 48999999 
+
+    },
+    { 
+        "UF": "CE", 
+        "cidade": "CE", 
+        "inicio": 60000000, 
+        "final": 63999999 
+
+    },
+    { 
+        "UF": "DF", 
+        "cidade": "DF", 
+        "inicio": 70000000, 
+        "final": 72799999 
+
+    },
+    { 
+        "UF": "DF", 
+        "cidade": "DF", 
+        "inicio": 73000000, 
+        "final": 73699999 
+
+    },
+    { 
+        "UF": "ES", 
+        "cidade": "ES", 
+        "inicio": 29000000, 
+        "final": 29999999 
+    },
+    { 
+        "UF": "GO", 
+        "cidade": "GO", 
+        "inicio": 72800000, 
+        "final": 72999999 
+    },
+    { 
+        "UF": "GO", 
+        "cidade": "GO", 
+        "inicio": 73700000, 
+        "final": 76799999 
+
+    },
+    { 
+        "UF": "MA", 
+        "cidade": "MA", 
+        "inicio": 65000000, 
+        "final": 65999999 
+
+    },
+    { 
+        "UF": "MT", 
+        "cidade": "MT", 
+        "inicio": 78000000, 
+        "final": 78899999 
+
+    },
+    { 
+        "UF": "MS",
+        "cidade": "MS", 
+        "inicio": 79000000, 
+        "final": 79999999
+    },
+    { 
+        "UF": "MG", 
+        "cidade": "MG", 
+        "inicio": 30000000, 
+        "final": 39999999 
+
+    },
+    { 
+        "UF": "PA", 
+        "cidade": "PA", 
+        "inicio": 66000000, 
+        "final": 68899999 
+
+    },
+    { 
+        "UF": "PB", 
+        "cidade": "PB", 
+        "inicio": 58000000, 
+        "final": 58999999 
+
+    },
+    { 
+        "UF": "PR", 
+        "cidade": "PR", 
+        "inicio": 80000000, 
+        "final": 87999999 
+
+    },
+    { 
+        "UF": "PE", 
+        "cidade": "PE", 
+        "inicio": 50000000, 
+        "final": 56999999 
+
+    },
+    { 
+        "UF": "PI", 
+        "cidade": "PI", 
+        "inicio": 64000000, 
+        "final": 64999999 
+
+    },
+    { 
+        "UF": "RJ", 
+        "cidade": "RJ", 
+        "inicio": 20000000, 
+        "final": 28999999 
+
+    },
+    { 
+        "UF": "RN", 
+        "cidade": "RN", 
+        "inicio": 59000000, 
+        "final": 59999999 
+
+    },
+    { 
+        "UF": "RS", 
+        "cidade": "RS", 
+        "inicio": 90000000, 
+        "final": 99999999 
+
+    },
+    { 
+        "UF": "RO", 
+        "cidade": "RO", 
+        "inicio": 76800000, 
+        "final": 76999999 
+
+    },
+    { 
+        "UF": "RR", 
+        "cidade": "RR", 
+        "inicio": 69300000, 
+        "final": 69399999 
+
+    },
+    { 
+        "UF": "SC", 
+        "cidade": "SC", 
+        "inicio": 88000000, 
+        "final": 89999999 
+
+    },
+    { 
+        "UF": "SP", 
+        "cidade": "SP", 
+        "inicio": "01000000", 
+        "final": 19999999 
+
+    },
+    { 
+        "UF": "SE", 
+        "cidade": "SE", 
+        "inicio": 49000000, 
+        "final": 49999999 
+
+    },
+    { 
+        "UF": "TO", 
+        "cidade": "TO", 
+        "inicio": 77000000, 
+        "final": 77999999 
+
     }
 ]
 
