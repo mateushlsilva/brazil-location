@@ -27,3 +27,47 @@ export enum UFEnum {
     SE = 'SE', 
     TO = 'TO'
 }
+
+
+export enum Sudeste {
+    SP = "SP",
+    RJ = "RJ",
+    ES = "ES",
+    MG = "MG"
+}
+
+export enum Nordeste {
+    BA = "BA",
+    SE = "SE",
+    PE = "PE",
+    AL = "AL",
+    PB = "PB",
+    RN = "RN",
+    CE = "CE",
+    PI = "PI",
+    MA = "MA"
+}
+
+export enum Sul {
+    PR = "PR",
+    SC = "SC",
+    RS = "RS"
+}
+
+
+export enum Norte {
+    PA = "PA",
+    AP = "AP",
+    AM = "AM",
+    RR = "RR",
+    AC = "AC",
+    RO = "RO",
+    TO = "TO"
+}
+
+export enum CentroOeste {
+    DF = "DF",
+    GO = "GO",
+    MT = "MT",
+    MS = "MS"
+}

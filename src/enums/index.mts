@@ -1,5 +1,10 @@
-import { UFEnum } from "./ufEnum.mjs";
+import { UFEnum, CentroOeste, Nordeste, Norte, Sudeste, Sul } from "./ufEnum.mjs";
 
 export {
-    UFEnum
+    UFEnum,
+    CentroOeste, 
+    Nordeste, 
+    Norte, 
+    Sudeste, 
+    Sul
 }
