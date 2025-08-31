@@ -1,6 +1,6 @@
 {
   "name": "brazil-location",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Biblioteca para trabalhar com estados (UFs) e cidades do Brasil",
   "main": "dist/index.mjs",
   "types": "dist/index.d.mts",       
